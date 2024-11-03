@@ -1,0 +1,196 @@
+[
+    {
+        "title": "Multi-source multi-domain sentiment analysis with BERT-based models",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:2osOgNQ5qMEC",
+        "citation_id": "o_1Q_G4AAAAJ:2osOgNQ5qMEC",
+        "authors": "G Roccabruna, S Azzolin, G Riccardi",
+        "publication": "European Language Resources Association, 581-589, 2022",
+        "cited_by": {
+            "value": 11,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13601134995587261906",
+            "serpapi_link": "https://serpapi.com/search.json?cites=13601134995587261906&engine=google_scholar&hl=en",
+            "cites_id": "13601134995587261906"
+        },
+        "year": "2022"
+    },
+    {
+        "title": "What can Speech and Language Tell us About the Working Alliance in Psychotherapy",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:d1gkVwhDpl0C",
+        "citation_id": "o_1Q_G4AAAAJ:d1gkVwhDpl0C",
+        "authors": "SP Bayerl, G Roccabruna, SA Chowdhury, T Ciulli, M Danieli, ...",
+        "publication": "Interspeech 2022, 2022",
+        "cited_by": {
+            "value": 7,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10395181992901350369",
+            "serpapi_link": "https://serpapi.com/search.json?cites=10395181992901350369&engine=google_scholar&hl=en",
+            "cites_id": "10395181992901350369"
+        },
+        "year": "2022"
+    },
+    {
+        "title": "Multifunctional iso standard dialogue act tagging in italian",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:u5HHmVD_uO8C",
+        "citation_id": "o_1Q_G4AAAAJ:u5HHmVD_uO8C",
+        "authors": "G Roccabruna, A Cervone, G Riccardi",
+        "publication": "CEUR WORKSHOP PROCEEDINGS 2769, 2020",
+        "cited_by": {
+            "value": 6,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11969169028147245162",
+            "serpapi_link": "https://serpapi.com/search.json?cites=11969169028147245162&engine=google_scholar&hl=en",
+            "cites_id": "11969169028147245162"
+        },
+        "year": "2020"
+    },
+    {
+        "title": "Are LLMs Robust for Spoken Dialogues?",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:qxL8FJ1GzNcC",
+        "citation_id": "o_1Q_G4AAAAJ:qxL8FJ1GzNcC",
+        "authors": "SM Mousavi, G Roccabruna, S Alghisi, M Rizzoli, M Ravanelli, G Riccardi",
+        "publication": "arXiv preprint arXiv:2401.02297, 2024",
+        "cited_by": {
+            "value": 5,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9209295212554755056",
+            "serpapi_link": "https://serpapi.com/search.json?cites=9209295212554755056&engine=google_scholar&hl=en",
+            "cites_id": "9209295212554755056"
+        },
+        "year": "2024"
+    },
+    {
+        "title": "Evaluation of Response Generation Models: Shouldn\u2019t It Be Shareable and Replicable?",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:IjCSPb-OGe4C",
+        "citation_id": "o_1Q_G4AAAAJ:IjCSPb-OGe4C",
+        "authors": "SM Mousavi, G Roccabruna, M Lorandi, S Caldarella, G Riccardi",
+        "publication": "Proceedings of the 2nd Workshop on Natural Language Generation, Evaluation \u2026, 2022",
+        "cited_by": {
+            "value": 5,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12604593388318312908",
+            "serpapi_link": "https://serpapi.com/search.json?cites=12604593388318312908&engine=google_scholar&hl=en",
+            "cites_id": "12604593388318312908"
+        },
+        "year": "2022"
+    },
+    {
+        "title": "Annotation of Valence Unfolding in Spoken Personal Narratives",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:9yKSN-GCB0IC",
+        "citation_id": "o_1Q_G4AAAAJ:9yKSN-GCB0IC",
+        "authors": "A Tammewar, F Braun, G Roccabruna, S Bayerl, K Riedhammer, ...",
+        "publication": "Proceedings of the Thirteenth Language Resources and Evaluation Conference \u2026, 2022",
+        "cited_by": {
+            "value": 2,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13930140686241283692",
+            "serpapi_link": "https://serpapi.com/search.json?cites=13930140686241283692&engine=google_scholar&hl=en",
+            "cites_id": "13930140686241283692"
+        },
+        "year": "2022"
+    },
+    {
+        "title": "Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:7PzlFSSx8tAC",
+        "citation_id": "o_1Q_G4AAAAJ:7PzlFSSx8tAC",
+        "authors": "S Alghisi, M Rizzoli, G Roccabruna, SM Mousavi, G Riccardi",
+        "publication": "arXiv preprint arXiv:2406.06399, 2024",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13224849688233884684",
+            "serpapi_link": "https://serpapi.com/search.json?cites=13224849688233884684&engine=google_scholar&hl=en",
+            "cites_id": "13224849688233884684"
+        },
+        "year": "2024"
+    },
+    {
+        "title": "Whats new? identifying the unfolding of new events in narratives",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:_Qo2XoVZTnwC",
+        "citation_id": "o_1Q_G4AAAAJ:_Qo2XoVZTnwC",
+        "authors": "SM Mousavi, S Tanaka, G Roccabruna, K Yoshino, S Nakamura, ...",
+        "publication": "arXiv preprint arXiv:2302.07748, 2023",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6767035244037731959",
+            "serpapi_link": "https://serpapi.com/search.json?cites=6767035244037731959&engine=google_scholar&hl=en",
+            "cites_id": "6767035244037731959"
+        },
+        "year": "2023"
+    },
+    {
+        "title": "What {'} s New? Identifying the Unfolding of New Events in a Narrative",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:RHpTSmoSYBkC",
+        "citation_id": "o_1Q_G4AAAAJ:RHpTSmoSYBkC",
+        "authors": "SM Mousavi, S Tanaka, G Roccabruna, K Yoshino, S Nakamura, ...",
+        "publication": "Proceedings of the The 5th Workshop on Narrative Understanding, 1-10, 2023",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17891883774599294648",
+            "serpapi_link": "https://serpapi.com/search.json?cites=17891883774599294648&engine=google_scholar&hl=en",
+            "cites_id": "17891883774599294648"
+        },
+        "year": "2023"
+    },
+    {
+        "title": "Can emotion carriers explain automatic sentiment prediction? A study on personal narratives",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:u-x6o8ySG0sC",
+        "citation_id": "o_1Q_G4AAAAJ:u-x6o8ySG0sC",
+        "authors": "SM Mousavi, G Roccabruna, A Tammewar, S Azzolin, G Riccardi",
+        "publication": "Proceedings of the 12th Workshop on Computational Approaches to Subjectivity \u2026, 2022",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8285226514626639678",
+            "serpapi_link": "https://serpapi.com/search.json?cites=8285226514626639678&engine=google_scholar&hl=en",
+            "cites_id": "8285226514626639678"
+        },
+        "year": "2022"
+    },
+    {
+        "title": "Will LLMs Replace the Encoder-Only Models in Temporal Relation Classification?",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:TQgYirikUcIC",
+        "citation_id": "o_1Q_G4AAAAJ:TQgYirikUcIC",
+        "authors": "G Roccabruna, M Rizzoli, G Riccardi",
+        "publication": "arXiv preprint arXiv:2410.10476, 2024",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2024"
+    },
+    {
+        "title": "Are LLMs Robust for Spoken Dialogues?",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:aqlVkmm33-oC",
+        "citation_id": "o_1Q_G4AAAAJ:aqlVkmm33-oC",
+        "authors": "S Mahed Mousavi, G Roccabruna, S Alghisi, M Rizzoli, M Ravanelli, ...",
+        "publication": "arXiv e-prints, arXiv: 2401.02297, 2024",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2024"
+    },
+    {
+        "title": "Let's Give a Voice to Conversational Agents in Virtual Reality",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:ufrVoPGSRksC",
+        "citation_id": "o_1Q_G4AAAAJ:ufrVoPGSRksC",
+        "authors": "M Yin, G Roccabruna, A Azad, G Riccardi",
+        "publication": "arXiv preprint arXiv:2308.02665, 2023",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2023"
+    },
+    {
+        "title": "Understanding Emotion Valence is a Joint Deep Learning Task",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:3fE2CSJIrl8C",
+        "citation_id": "o_1Q_G4AAAAJ:3fE2CSJIrl8C",
+        "authors": "G Roccabruna, SM Mousavi, G Riccardi",
+        "publication": "arXiv preprint arXiv:2305.17422, 2023",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2023"
+    },
+    {
+        "title": "Battle Report for battle# 04",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o_1Q_G4AAAAJ&citation_for_view=o_1Q_G4AAAAJ:MXK_kJrjxJIC",
+        "citation_id": "o_1Q_G4AAAAJ:MXK_kJrjxJIC",
+        "authors": "P Arvani, D Batbaatar, AG Beyene, L Brugnera, R Fellin, NA Girardini, ...",
+        "cited_by": {
+            "value": null
+        },
+        "year": "1883"
+    }
+]

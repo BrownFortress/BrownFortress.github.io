@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Gabriel's portfolio">
+    <meta name="author" content="grocca">
+    <title>Landing page</title>
+    <!-- font icons -->
+    <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
+    <!-- Bootstrap + JohnDoe main styles -->
+	<link rel="stylesheet" href="assets/css/gr.css">
+
+</head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
+    <a href="components.html" class="btn btn-primary btn-component" data-spy="affix" data-offset-top="600"><i class="ti-shift-left-alt"></i> Components</a>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <h4 class="header-subtitle" >Hello, I am</h4>
+                <h1 class="header-title">Gabriel Roccabruna</h1>
+                <h6 class="header-mono" >PhD. Student | Natural Language Processing AI</h6>
+                <button class="btn btn-primary btn-rounded" onclick="get_articles()"><i class="ti-printer pr-2"></i>Print Resume</button>
+            </div>
+        </div>
+    </header>
+    <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white" data-spy="affix" data-offset-top="510">
+        <div class="container">
+            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse mt-sm-20 navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a href="#home" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#about" class="nav-link">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#resume" class="nav-link">Resume</a>
+                    </li>
+                    
+                </ul>
+                <ul class="navbar-nav brand">
+                    <img src="assets/imgs/avatar.jpg" alt="" class="brand-img">
+                    <li class="brand-txt">
+                        <h5 class="brand-title">Gabriel Roccabruna</h5>
+                        <div class="brand-subtitle">PhD. Student | Natural Language Processing AI</div>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#publications" class="nav-link">Publications</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <section class="section" id="about">
+        <div class="container">
+            <div class="col-lg-10 about-card">
+                <h3 class="font-weight-light">Who am I ?</h3>
+                <span class="line mb-5"></span>
+                <h5 class="mb-3">I'm a Ph.D student at the University of Trento.</h5>
+                <p class="mt-20">Hello! This is Gabriel. I’m in the last year of a PhD course in computer science and information technology at the University of 
+                    Trento.  My research is currently focused on natural language processing, particularly language understanding, in the areas of natural language generation, 
+                    affective computing, and dialogue systems.  </p>
+                <h5 class="mb-3">Active research projects</h5>
+      
+                <p class="mt-20">
+                    I’m currently working on two research projects:
+                    <ul>
+                        <li>
+                            <b><i>Affective computing</i></b>: We are studying the relationship between biosignals and emotions expressed in a personal narrative to model the emotions from the point of view of the narrator. (A personal narrative is the recount of a past emotionally charged event lived by the narrator.)
+                        </li>
+                        <li>
+                            <b><i>Temporal Reasoning</i></b>: After having assessed that LLMs underperform in extracting temporal relations (work presented in <a href="https://arxiv.org/abs/2410.10476" target="_blank">my latest article</a>), we’re investigating whether LLMs can leverage additional information conveyed by images to predict the temporal relation between two events. 
+                        </li>
+                    </p>   
+                </ul>
+                <button class="btn btn-outline-danger"><i class="icon-down-circled2 "></i>Download My CV</button>
+            </div>
+    </section>
+    <section class="section" id="contacts">
+        <div class="container">
+            <h3 class="font-weight-light">Personal Info</h3>
+            <span class="line mb-5"></span>
+            <ul class="mt40 info list-unstyled">
+                <li><span>Email</span> : roccabrunagabriel@gmail.com</li>
+            
+            </ul>
+            <ul class="social-icons pt-3">
+                <li class="social-item"><a class="social-link" href="https://x.com/Rocca94"><i class="ti-twitter" aria-hidden="true" target="_blank"></i></a></li>
+                <li class="social-item"><a class="social-link" href="https://www.instagram.com/gabriel.roccabruna"><i class="ti-instagram" aria-hidden="true" target="_blank"></i></a></li>
+                <li class="social-item"><a class="social-link" href="https://github.com/BrownFortress"><i class="ti-github" aria-hidden="true" target="_blank"></i></a></li>
+                <li class="social-item"><a class="social-link" href="www.linkedin.com/in/gabriel-roccabruna" target="_blank"><i class="ti-linkedin" aria-hidden="true"></i></a></li>
+            </ul>  
+        </div>
+    </section> 
+    <section class="section" id="publications">
+        <div class="container">
+            <h3 class="font-weight-light">Publications</h3>
+            <span class="line mb-5"></span>
+            <div w3-include-html="pubs.html"></div>
+        </div>
+       
+    </section>
+
+  
+
+    <!--Resume Section-->
+    <section class="section" id="resume">
+        <div class="container">
+            <h2 class="mb-5">My Resume</h2>
+            <div class="row">
+                <div class="col-lg-10">
+                        <div class="about-card">
+                            <h4 class="font-weight-light">Education</h4>
+                            <span class="line mb-5"></span>
+                     
+                        <div class="row">
+                            <div class="col-3 text-danger title text-danger">2021 - Present</div> 
+                            <div class="col-9 title">Ph.D. in Information Engineering and Computer Science <p class="sub-resume">  University of Trento, Italy</p> </div>
+                        </div>   
+                        <P class="subtitle"><i>Research Topic</i>: Knowledge representations with graphs for narratives to be integrated into Large Language Models.</P>
+                        <P class="subtitle"><i>Supervisor</i>: Professor <a href="https://scholar.google.it/citations?user=k9pXsKoAAAAJ&hl=en&oi=ao" target="_blank">Giuseppe Riccardi</a></P>
+                        <P class="subtitle"><i>Expected Graduation (MM/YY)</i>: 06/2025</P>
+                        <hr>
+                        <div class="row">
+                            <div class="col-3 text-danger title text-danger">2017 - 2020</div> 
+                            <div class="col-9 title">M.Sc. in Computer Science <p class="sub-resume">  University of Trento, Italy</p> </div>
+                        </div>   
+                        <P class="subtitle"><i>Topics of Study</i>: Natural Language Processing, Optimization, Distributed Systems, Deep Learning, and Machine Learning.</P>
+                        <P class="subtitle"><i>Thesis Title</i>: <a href="https://ceur-ws.org/Vol-2769/paper_31.pdf" target="_blank">Multifunctional ISO standard Dialogue tagging in Italian</a> </P>
+                        <hr>
+                        <div class="row">
+                            <div class="col-3 text-danger title text-danger">2013 - 2017</div> 
+                            <div class="col-9 title">B.Sc. in Computer Science <p class="sub-resume">  University of Trento, Italy</p> </div>
+                        </div> 
+                        <P class="subtitle"><i>Topics of Study</i>: Mathematics, Statistics & Probability, Algorithms, and  Data Structures.</P>
+                    </div>
+                </div>
+                
+            </div>
+       
+            <div class="row">
+                <div class="col-lg-10">
+                    <div class="about-card">
+                            <h4 class="font-weight-light">Experience</h4>
+                            <span class="line mb-5"></span>
+                    
+                        <div class="row">
+                            <div class="col-3 title text-danger">06/2024 - 09/2024</div><div class="col-9 title"> Applied Scientist Intership <p class="sub-resume">Amazon Services LLC, Seattle, U.S.A.</p></div>
+                        </div>
+                        <!-- <h6 class="title text-danger">06/2024 - 09/2024</h6> -->
+                        <P class="subtitle ml-auto">I was part of the Community Operation team and my task was to research and develop a Toponym Linker, a.k.a. Geoparser (i.e. a text-to-geocoordinate system).</P>
+                        <hr>
+                        <div class="row">
+                            <div class="col-3 text-danger title text-danger">2021 - Present</div> <div class="col-9 title">Teaching Assistant <p class="sub-resume">University of Trento, Italy</p> </div>
+                        </div>
+                
+                        <P>Courses:</P>
+                        <P class="co card-subtitle ml-auto"><ul class="subtitle"><li>Natural Language Understanding A.Y. 2021-2022, 2022-2023, 2023-2024</li><li>Human-Machine Dialogue A.Y. 2023-2024, 2024-2025</li></ul></P>
+                        <hr>
+                        <div class="row">
+                            <div class="col-3 text-danger title text-danger">2020 - 2021</div> <div class="col-9 title">Research Assistant <p class="sub-resume">University of Trento, Italy</p> </div>
+                        </div>
+                        <P>Contributions: </P>
+                        <P class="subtitle"><ul><li>R&D of the Natural Language Understanding component of a personal healthcare agent
+                            during the European Research project Coadapt</li><li>R&D of neural language models (PennTreeBank corpus) and intent classification and
+                                slot filling models (ATIS and SNIPS).</li></ul></P>
+                        <hr>
+                        <div class="row">
+                            <div class="col-3 text-danger title text-danger">2016 - 2017</div> <div class="col-9 title">Internship<p class="sub-resume"> Fondazione Bruno Kessler (FBK), Italy</p> </div>
+                        </div>
+                        <P>Contributions:</P>
+                        <P class="subtitle">Automatic computation of nutrient values and carbon footprint of any dish given the
+                            recipe. The goal was to raise awareness in people to reduce food waste.</P>
+                    </div>    
+                </div>   
+            </div> 
+            <div class="row">
+                <div class="col-lg-10">
+                    <div class="about-card">
+                        <h4 class="font-weight-light">Development Skills</h4>
+                        <span class="line mb-5"></span>
+                        <div class="row">
+                            <div class="col-3 text-danger title text-danger">Technical skills</div> 
+                            <div class="col-9 title">Sklearn, PyTorch, TensorFlow, Keras, spaCy and NLTK.</p> </div>
+                        </div>   
+                        <div class="row">
+                            <div class="col-3 text-danger title text-danger">Languages</div> 
+                            <div class="col-9 title">Fluent in Italian & English.</div>
+                        </div>  
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+
+</body>
+</html>
+<script src="assets/js/back.js"></script>
+<script>
+    window.onload = includeHTML();
+</script>
